@@ -77,8 +77,8 @@ Click on "File" > "New" > "Verification/Debugging Files" > "University Program V
   xnor(y7,a,b);
   endmodule```
  
-###Logic symbol & Truthtable
-![WhatsApp Image 2024-03-12 at 15 54 11_70c778cb](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/82129c67-aeb7-46e5-a4b4-8e6aafb3769a)
+###Logic symbol & Truthtable                                                                           
+ ![WhatsApp Image 2024-03-12 at 15 54 11_139a2e3a](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/ba4a0998-8ee4-45ab-ba7e-91ec14704c48)
 
 
 
