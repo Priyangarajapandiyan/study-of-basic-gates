@@ -78,12 +78,14 @@ Click on "File" > "New" > "Verification/Debugging Files" > "University Program V
   endmodule```
  
 ###Logic symbol & Truthtable
-![WhatsApp Image 2024-03-12 at 15 54 11_70c778cb](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/04a5e723-e329-4c20-a783-fb506429fa57)
+![WhatsApp Image 2024-03-12 at 15 54 11_70c778cb](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/82129c67-aeb7-46e5-a4b4-8e6aafb3769a)
+
 
 
 **RTL realization Output:** 
 
 **RTL**
+
 
 **Result:**
 
