@@ -84,7 +84,7 @@ xnor(y7,a,b);
 endmodule
 ```
  
-###Logic symbol & Truthtable                                                                           
+**Logic symbol & Truthtable**                                                                           
 
 ![WhatsApp Image 2024-03-12 at 10 24 10_8193cf03](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/6ce778ef-4a18-4dec-8777-301f44942199)
 
