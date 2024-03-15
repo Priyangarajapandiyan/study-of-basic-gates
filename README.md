@@ -65,6 +65,11 @@ If there are any errors or warnings during the compilation process, Quartus will
 Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF". Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All. Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 
 **PROGRAM**
+Program for logic gates and verify its truth table in quartus using Verilog programming
+
+Developed by: R PRIYANGA
+RegisterNumber: 212223230161
+
 ```module expone (a,b,y1,y2,y3,y4,y5,y6,y7);
   input a,b;
   output y1,y2,y3,y4,y5,y6,y7;
@@ -78,15 +83,17 @@ Click on "File" > "New" > "Verification/Debugging Files" > "University Program V
   endmodule```
  
 ###Logic symbol & Truthtable                                                                           
- ![WhatsApp Image 2024-03-12 at 15 54 11_139a2e3a](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/ba4a0998-8ee4-45ab-ba7e-91ec14704c48)
 
+![WhatsApp Image 2024-03-12 at 10 24 10_8193cf03](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/26a717a5-3ba6-474f-a86b-154b435aaec4)
 
+**RTL realization Output:**
 
-**RTL realization Output:** 
+![Screenshot 2024-03-14 154311](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/f12a2d8a-d0fd-4b0c-9971-71b3e9ea9db6)
 
-**RTL**
+**Waveform**
 
+![Screenshot 2024-03-14 154548](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/533d54e0-a45c-4cea-ab3e-cca89e530f46)
 
 **Result:**
 
-
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
