@@ -68,6 +68,7 @@ Click on "File" > "New" > "Verification/Debugging Files" > "University Program V
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
 Developed by: R PRIYANGA
+
 RegisterNumber: 212223230161
 
 ```module expone (a,b,y1,y2,y3,y4,y5,y6,y7);
@@ -84,15 +85,15 @@ RegisterNumber: 212223230161
  
 ###Logic symbol & Truthtable                                                                           
 
-![WhatsApp Image 2024-03-12 at 10 24 10_8193cf03](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/26a717a5-3ba6-474f-a86b-154b435aaec4)
+![WhatsApp Image 2024-03-12 at 10 24 10_8193cf03](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/6ce778ef-4a18-4dec-8777-301f44942199)
 
 **RTL realization Output:**
 
-![Screenshot 2024-03-14 154311](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/f12a2d8a-d0fd-4b0c-9971-71b3e9ea9db6)
+![Screenshot 2024-03-14 154311](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/9f418287-baa2-4d4f-b15f-a5a453fd9a73)
 
 **Waveform**
 
-![Screenshot 2024-03-14 154548](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/533d54e0-a45c-4cea-ab3e-cca89e530f46)
+![Screenshot 2024-03-14 154548](https://github.com/Priyangarajapandiyan/study-of-basic-gates/assets/144872535/37041c36-10dd-4a66-89d7-e1f516bb0067)
 
 **Result:**
 
